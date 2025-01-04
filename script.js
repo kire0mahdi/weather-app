@@ -1,4 +1,3 @@
-# Coded by Mahdi Hasan.
 const apiKey = 'c83c336d79e46362c28d00dad7a635dd'; // Replace with your OpenWeather API key
 const searchBtn = document.getElementById('search-btn');
 const cityInput = document.getElementById('city-input');
